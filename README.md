@@ -6,7 +6,7 @@ The dashboard provides key KPIs and visualizations to analyze **sales performanc
 ---
 
 ## 📸 Dashboard Preview
-![Sales Performance Dashboard](dashboard.png)
+![Sales Performance Dashboard](https://raw.githubusercontent.com/Shanawazuddin/Amazon-Product-Analysis/refs/heads/main/Dashboard%20Screenshot.png)
 
 ---
 
